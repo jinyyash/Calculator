@@ -347,7 +347,7 @@ public class Cal extends javax.swing.JFrame {
             result = firstnum * secondnum;//multiply
         if(operations.equals("/"))
             result = firstnum / secondnum;
-        txtDisplay.setText(result+" ");
+        txtDisplay.setText(result+" ");//divide
     }//GEN-LAST:event_btnEqualActionPerformed
 
     private void btnClrActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnClrActionPerformed
