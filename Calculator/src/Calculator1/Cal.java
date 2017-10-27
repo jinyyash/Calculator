@@ -342,7 +342,7 @@ public class Cal extends javax.swing.JFrame {
         if(operations.equals("+"))
             result = firstnum + secondnum;
         if(operations.equals("-"))
-            result = firstnum - secondnum;
+            result = firstnum - secondnum;//substract
         if(operations.equals("*"))
             result = firstnum * secondnum;
         if(operations.equals("/"))
