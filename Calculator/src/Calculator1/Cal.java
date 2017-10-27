@@ -18,7 +18,7 @@ public class Cal extends javax.swing.JFrame {
      * Creates new form Cal
      */
     public Cal() {
-        initComponents();
+        initComponents();//constructor
     }
 
     /**
